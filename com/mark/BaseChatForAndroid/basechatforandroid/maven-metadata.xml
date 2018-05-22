@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.mark.BaseChatForAndroid</groupId>
+  <artifactId>BaseChatForAndroid</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20180522020418</lastUpdated>
+  </versioning>
+</metadata>
